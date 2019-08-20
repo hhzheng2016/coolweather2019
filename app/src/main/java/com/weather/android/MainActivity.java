@@ -1,8 +1,10 @@
-package com.example.coolweather;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.weather.android;
 
 import android.os.Bundle;
+
+import com.example.coolweather.R;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
