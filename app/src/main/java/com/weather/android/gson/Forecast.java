@@ -16,8 +16,8 @@ public class Forecast {
         public String min;
     }
 
-    private class More {
-        @SerializedName("txt-d")
+    public class More {
+        @SerializedName("txt_d")
         public String info;
     }
 }
